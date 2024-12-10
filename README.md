@@ -1,5 +1,7 @@
 # 🎮 Video Game Sales Analysis Dashboard  
 
+![Video Game Analysis Cover Photo_1](https://github.com/user-attachments/assets/ad9e9320-1426-4cda-bcf8-eb83d9c4a411)
+
 
 ## 📊 Overview  
 The **Video Game Sales Analysis Dashboard** offers a comprehensive exploration of the global video game market. This Excel-based project evaluates sales trends across platforms, genres, publishers, and regions, providing valuable insights for game developers, publishers, and industry analysts.  
