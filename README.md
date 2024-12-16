@@ -6,7 +6,7 @@
 ## 📊 Overview  
 The **Video Game Sales Analysis Dashboard** offers a comprehensive exploration of the global video game market. This Excel-based project evaluates sales trends across platforms, genres, publishers, and regions, providing valuable insights for game developers, publishers, and industry analysts.  
 
----
+<br>
 
 ## 🗂️ Data Overview  
 The project uses a dataset with **15,466 rows** and the following columns:  
@@ -15,12 +15,15 @@ The project uses a dataset with **15,466 rows** and the following columns:
 - **Sales Data**:  
   - `North America Sales`, `Europe Sales`, `Japan Sales`, `Other Region Sales`, `Global Sales`.  
 
+<br>
+
 ### Key Statistics  
 - 📅 Data spans from **1985 to 2020**.  
 - 🌍 Includes sales data across **North America**, **Europe**, **Japan**, and **Other Regions**.  
 - 🎮 Covers top **gaming platforms**, **genres**, and **publishers**.  
 
----
+
+<br>
 
 ## 📈 Dashboard Features  
 
@@ -48,7 +51,7 @@ The project uses a dataset with **15,466 rows** and the following columns:
   - Top Publisher: **Nintendo** ($1,371M).  
   - Best Gaming Year: **2008** ($679M).  
 
----
+<br>
 
 ## 🌟 Key Insights  
 
@@ -71,12 +74,12 @@ The project uses a dataset with **15,466 rows** and the following columns:
 - **Nintendo** holds a **17% market share**, followed by **Electronic Arts** (13%) and **Activision** (8%).  
 - Action and Sports games dominate these publishers’ portfolios.  
 
----
+<br>
 
 ## 🛠️ Tools Used  
 - **Excel**: Used for data cleaning, visualization, and analysis.  
 
----
+<br>
 
 ## 🏆 Business Recommendations  
 - **Focus on Popular Genres**:  
@@ -88,10 +91,26 @@ The project uses a dataset with **15,466 rows** and the following columns:
 - **Develop Franchises**:  
   Sequels and franchise-based games tend to perform better and generate consistent revenue.  
 
----
+<br>
 
 ## 📸 Dashboard Snapshots  
 ![Video Game Sales Analysis_SS_1](https://github.com/user-attachments/assets/92677b24-6167-42c9-89b3-70df5ff991a1)
+
+<br>
+
+## 📸 Presentation
+![image](https://github.com/user-attachments/assets/1a9dbd77-9650-42d5-988d-a204b91975d8)
+![image](https://github.com/user-attachments/assets/ec35d8eb-5067-4338-b313-4046d3613592)
+![image](https://github.com/user-attachments/assets/24b20133-44a5-45d0-a732-8d81737ec48f)
+![image](https://github.com/user-attachments/assets/aaa9e3c7-b0fe-445c-8543-b1bd0c2664ff)
+![image](https://github.com/user-attachments/assets/41e5146d-501e-4486-95cc-1e64edbd89ce)
+![image](https://github.com/user-attachments/assets/6bde99ee-e07c-441a-90f3-7de7d05fdefd)
+
+
+
+
+
+
 
 <p align="center"> <a href="mailto:akshay.manchekar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/akshaymanchekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.kaggle.com/akshaymanchekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> <a href="https://www.hackerrank.com/akshay_mancheka1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> </p>
 
